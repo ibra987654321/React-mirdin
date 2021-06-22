@@ -1,0 +1,24 @@
+#Header{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+
+}
+#Home{
+color: white;
+}
+#Work{
+    color: white;
+}
+#Team{
+    color: white;
+}
+#Contacts{
+    color: white;
+}
